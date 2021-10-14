@@ -94,4 +94,5 @@
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.023" />
+    //dia 14/10/2021
 </androidx.constraintlayout.widget.ConstraintLayout>
